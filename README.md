@@ -3,6 +3,7 @@
 ## Introduction
 
 This project is a collaborative project between [Emory NLP](https://www.emorynlp.org) and [Real Life Science](https://rlsciences.com), which develops annotation guidelines and address automatic extraction of medical entities (e.g., ‘Patient Condition’ and ‘Procedure’) and their relations in disease-related social media data.
+The paper will be published in [Proceedings of the EMNLP Workshop on Health Text Mining and Information Analysis](https://louhi2022.fbk.eu/)/2022.
 
 ## Model
 
