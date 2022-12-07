@@ -1,0 +1,18 @@
+# torch==1.11.0
+tensorboard
+tqdm
+numpy
+ujson==4.2.0
+transformers==4.18.0
+pyhocon
+scikit-learn==1.1.1
+spacy==3.0.6
+
+# Tmp
+accelerate
+datasets >= 1.8.0
+sentencepiece != 0.1.92
+protobuf
+rouge-score
+nltk
+py7zr

@@ -1,0 +1,1 @@
+{"ner2id":{"Patient Condition":0,"Caregiver Condition":1,"Unspecified Condition":2,"Medicine":3,"Procedure":4,"Color":5,"Degree":6,"Location":7,"Object":8,"Profile":9,"Property":10,"Quantity":11,"Size":12,"Type":13},"rel2id":{"Na":0,"Attribute":1,"Treatment":2}}
